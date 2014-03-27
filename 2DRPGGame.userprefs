@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2dactionrpg\Scripts\playerControllerCS.cs">
+    <Files>
+      <File FileName="Assets\2dactionrpg\Scripts\playerNetwork.cs" Line="19" Column="4" />
+      <File FileName="Assets\2dactionrpg\Scripts\stonemonster.js" Line="1" Column="1" />
+      <File FileName="Assets\2dactionrpg\Scripts\inventory.js" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\UtilityScripts\InputToEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets\2dactionrpg\Scripts\RandomMatchmaker.cs" Line="1" Column="1" />
+      <File FileName="Assets\2dactionrpg\Scripts\playerControllerCS.cs" Line="15" Column="42" />
+      <File FileName="Assets\2dactionrpg\Scripts\wand.js" Line="1" Column="1" />
+      <File FileName="Assets\2dactionrpg\Scripts\bat.js" Line="1" Column="1" />
+      <File FileName="Assets\2dactionrpg\Scripts\playeranimation.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
